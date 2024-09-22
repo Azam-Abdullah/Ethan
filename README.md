@@ -32,8 +32,8 @@ Before running the demo, ensure you have the following:
     In the same directory as `main.py`, create a `.env` file and add your API keys:
 
 5. **Run the Demo**:
-Execute the main script to start the bot:
-```bash
-python main.py
+    Execute the main script to start the bot:
+    ```bash
+    python main.py
 
 
