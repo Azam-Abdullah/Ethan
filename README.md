@@ -30,6 +30,9 @@ Before running the demo, ensure you have the following:
     pip install -r requirements.txt
 4. **Create a `.env` File**:
     In the same directory as `main.py`, create a `.env` file and add your API keys:
+    ```bash
+    DEEPGRAM_API_KEY=your_deepgram_api_key_here
+    GROQ_API_KEY=your_groq_api_key_here
 
 5. **Run the Demo**:
     Execute the main script to start the bot:
